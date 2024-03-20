@@ -4,8 +4,8 @@
 
 O Delphi utilizado foi o Delphi 11.3 Alexandria;
 O Banco de Dados está dentro da pasta, banco utilizado foi o Firebird 2.1;
-Para rodar com os teste unitários abri o arquivo ProjectGroup
-Funcionamento
+Para rodar com os teste unitários abrir o arquivo ProjectGroup
+
 
 #Login
 Ao abrir a Tela de Login, não poderá ser inicializado sem o usuário: teste, senha: teste;
