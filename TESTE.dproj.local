@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/03/12 12:39:39.000.532,=C:\git\produtos\Unit1.pas</Transaction>
+    <Transaction>2024/03/12 18:37:52.000.347,C:\git\produtos\Project1.dproj=C:\git\produtos\TESTE.dproj</Transaction>
+    <Transaction>2024/03/12 19:13:38.000.334,=C:\git\produtos\Unit2.pas</Transaction>
+    <Transaction>2024/03/12 19:25:37.000.078,=C:\git\produtos\Unit3.pas</Transaction>
+    <Transaction>2024/03/12 19:26:33.000.482,C:\git\produtos\Unit1.dfm=C:\git\produtos\uPrincipal.dfm</Transaction>
+    <Transaction>2024/03/12 19:26:33.000.482,C:\git\produtos\Unit1.pas=C:\git\produtos\uPrincipal.pas</Transaction>
+    <Transaction>2024/03/12 19:28:12.000.883,C:\git\produtos\Unit2.dfm=C:\git\produtos\udmConexao.dfm</Transaction>
+    <Transaction>2024/03/12 19:28:12.000.883,C:\git\produtos\Unit2.pas=C:\git\produtos\udmConexao.pas</Transaction>
+    <Transaction>2024/03/12 19:40:55.000.290,C:\git\produtos\Unit3.dfm=C:\git\produtos\uCadProdutos.dfm</Transaction>
+    <Transaction>2024/03/12 19:40:55.000.290,C:\git\produtos\Unit3.pas=C:\git\produtos\uCadProdutos.pas</Transaction>
+    <Transaction>2024/03/12 21:46:21.000.398,=C:\git\produtos\Unit1.pas</Transaction>
+    <Transaction>2024/03/12 21:47:01.000.529,C:\git\produtos\Unit1.pas=C:\git\produtos\uListaProdutos.pas</Transaction>
+    <Transaction>2024/03/12 21:47:01.000.529,C:\git\produtos\Unit1.dfm=C:\git\produtos\uListaProdutos.dfm</Transaction>
+    <Transaction>2024/03/12 22:30:55.000.180,=C:\git\produtos\Unit1.pas</Transaction>
+    <Transaction>2024/03/12 22:44:11.000.148,=C:\git\produtos\Unit1.pas</Transaction>
+    <Transaction>2024/03/12 22:46:40.000.136,C:\git\produtos\Unit1.pas=C:\git\produtos\uEsntradaSaidaEstoque.pas</Transaction>
+    <Transaction>2024/03/12 22:46:40.000.136,C:\git\produtos\Unit1.dfm=C:\git\produtos\uEsntradaSaidaEstoque.dfm</Transaction>
+    <Transaction>2024/03/12 23:01:00.000.445,C:\git\produtos\uEsntradaSaidaEstoque.dfm=C:\git\produtos\uEntradaSaidaEstoque.dfm</Transaction>
+    <Transaction>2024/03/12 23:01:00.000.445,C:\git\produtos\uEsntradaSaidaEstoque.pas=C:\git\produtos\uEntradaSaidaEstoque.pas</Transaction>
+    <Transaction>2024/03/13 19:57:14.000.417,=C:\git\produtos\Unit1.pas</Transaction>
+    <Transaction>2024/03/13 20:00:28.000.684,C:\git\produtos\uLogin.pas=C:\git\produtos\Unit1.pas</Transaction>
+    <Transaction>2024/03/13 20:00:28.000.684,C:\git\produtos\uLogin.dfm=C:\git\produtos\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
